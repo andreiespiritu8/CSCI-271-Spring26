@@ -1,0 +1,10 @@
+
+#include <iostream>
+
+using namespace std;
+int main() {
+    cout << "My name is, Andrei Espiritu." << endl; 
+    cout << "I am currently taking CSCI 271 and I am in section 1." << endl;
+    cout << "I like to hang out with friends and play sports." << endl;
+    return 0;
+}
